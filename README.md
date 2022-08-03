@@ -1,6 +1,6 @@
 # The-Impact-of-Twitter-Sentiments-on-Stock-Market-Trends
 
-This is the final project of the Information Technology Fundamentals course under the supervision of Dr. M . Manshaei.
+This is the final project of the Information Technology Fundamentals course under the supervision of Dr. M . Manshaei in Spring 2022.
 
 We collected two datasets from Twitter, one consisting of data labeled on the vibe of the tweets which had any topic, and another, unlabeled data of market-relevant tweets.
 We used the first dataset to build three supervised models: LSTM, Random Forest, and Naive Bayes. Then we used our trained models to label the second dataset.
